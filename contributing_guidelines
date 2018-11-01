@@ -1,0 +1,13 @@
+When making a new file, do NOT put spaces in the file name! 
+Either_use_underscores OR use-dashes. It's good practice!
+
+When you commit, using the default message is fine. If you want to be super cool, add your own custom message!
+Make sure that it starts with an actionable verb so we know what you did. And make sure it has the file's name or the 
+certain feature's name so we know what exactly has been changed.
+
+If you're adding images, put them in the images folder!
+
+If you're adding text files, put them in the txtfiles folder!
+
+If you're going to change someone else's text file, it's polite to create a pull request instead of directly committing. 
+Let the person decide if you can add the thing or not!
